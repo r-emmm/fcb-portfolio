@@ -34,3 +34,17 @@ body{
 	/*aligns the elements vertically*/
 	align-items: center;
 }
+
+img {
+  display: block;
+}
+
+button {
+  display: block;
+  margin-top: 20px;
+}
+
+<div id="landing">
+  <img src="./images/freen.jfif">
+  <button>Let's Work Together</button>
+</div>
